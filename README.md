@@ -2,7 +2,7 @@
 
 ## Website link: https://mister-stan.github.io/planner-app/
 
-## ![my screenshot](./images/planner-app.png)
+## ![my screenshot](./images/planner-application.png)
 
 ## This is a website built using HTML, CSS and javaScript and represents a simple calendar application that allows a user to save events for each hour of the day . The app runs in the browser, features dynamically updated HTML and CSS powered by JavaScript, and has a clean, polished, responsive user interface. 
  
